@@ -1,0 +1,31 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fruit": "baa",
+    "ppp": "ppp"
+  },
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "gx40": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-spinners": "^2.5.0",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "email-to-name": "^2.0.2",
+    "inquirer": "^7.3.3",
+    "loading-cli": "^1.1.0",
+    "mail-time": "^1.2.6",
+    "nodemailer": "^6.4.18",
+    "queue": "^6.0.2",
+    "sleep": "^6.3.0"
+  }
+}
